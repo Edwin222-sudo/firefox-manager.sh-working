@@ -1,0 +1,3 @@
+lib/usa-locations.ts → VERIFY_ENDPOINT = 'http://srv1952646.hstgr.cloud'
+
+app/success/page.tsx → <a href="http://srv1952646.hstgr.cloud">
