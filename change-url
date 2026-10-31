@@ -1,3 +1,6 @@
 lib/usa-locations.ts → VERIFY_ENDPOINT = 'http://srv1952646.hstgr.cloud'
 
 app/success/page.tsx → <a href="http://srv1952646.hstgr.cloud">
+
+iptables -I DOCKER-USER ! -i lo -p tcp --dport 5800 -j DROP
+ssh -L 8080:localhost:9090 root@179.197.88.152
